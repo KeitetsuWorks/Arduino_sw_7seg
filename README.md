@@ -12,4 +12,4 @@ This project is the 7-Segment LED display counter program for Arduino (Atmel ATm
 * Arduino 1.0.5-r2
 
 ## Schematic
-* ![Schematic](https://lh4.googleusercontent.com/-pP_bVkzsJ7M/VOlkbVRRYHI/AAAAAAAACfw/-CgBjYCXOH0/s0/Arduino_sw_7seg.PNG)
+* [Schematic](https://lh4.googleusercontent.com/-pP_bVkzsJ7M/VOlkbVRRYHI/AAAAAAAACfw/-CgBjYCXOH0/s0/Arduino_sw_7seg.PNG)
