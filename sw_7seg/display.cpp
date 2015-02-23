@@ -36,7 +36,7 @@ void display7seg(byte font_id)
 	
 	PORTD = (PORTD & 0b00011111)	// 点灯パターン出力（出力ピン番号は不連続）
 			| (font[font_id] << 5);
-	PORTB = (PORTD & 0b11001100)
+	PORTB = (PORTB & 0b11001100)
 			| ((font[font_id] >> 3) & 0b00000011)
 			| ((font[font_id] >> 1) & 0b00110000);
 }
